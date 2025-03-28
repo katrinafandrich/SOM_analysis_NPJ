@@ -7,5 +7,6 @@ The notebooks are read best in this order:
 1. som_analysis_NPJ.ipynb
 2. boxplots_cmip6.ipynb
 3. disturbance_analysis_SOM.ipynb
-4. KNN_NPJ.ipynb
+4. plot_HI_rainfall_SOM.ipynb
+5. KNN_NPJ.ipynb
 
