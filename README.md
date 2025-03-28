@@ -1,4 +1,4 @@
-This repository contains a few notebooks from my PhD research where I trained a machine learning model (i.e., the Self-Organizing Map) to identify the relationship between the largescale circulation over the North Pacific and heavy rainfall in Hawaii.
+This repository contains a handful of notebooks from my PhD research where I trained a machine learning model (i.e., the Self-Organizing Map) to identify the relationship between the largescale circulation over the North Pacific and heavy rainfall in Hawaii.
 Once this relationship was established, I then projected CMIP6 data onto the model to better understand how this relationship may change in a future climate.
 
 In addition to the Self-Organizing Map, which is an unsupervised learning method, I also experimented with the K-Nearest Neighbors (KNN) algorithm, which is a supervised learning method.
