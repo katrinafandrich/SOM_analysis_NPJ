@@ -4,9 +4,9 @@ Once this relationship was established, I then projected CMIP6 data onto the mod
 The scripts read best in this order:
 1. som_analysis_NPJ.ipynb
 2. boxplots_cmip6.ipynb
-3. disturbance_analysis.ipynb
+3. disturbance_analysis_NPJ.ipynb
 
 In addition to the Self-Organizing Map, which is an unsupervised learning method, I also experimented with the K-Nearest Neighbors (KNN) algorithm, which is a supervised learning method.
 
-4. KNN_analysis.ipynb
+4. KNN_analysis_NPJ.ipynb
 
